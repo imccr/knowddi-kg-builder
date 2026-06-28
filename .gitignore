@@ -1,0 +1,48 @@
+# ── DrugBank source files (too large / proprietary) ──────────────────────────
+# Download drugbank.xml from drugbank.ca (free academic registration required)
+# Regenerate drugbank_ddi.csv with: python3 parse_drugbank.py
+drugbank.xml
+drugbank.xml.zip
+drugbank_ddi.csv
+
+# ── Temporary pipeline outputs (copy-paste files, regenerate with 2_pull_edges.py) ──
+new_drug_ids.json
+out_node2id_entries.json
+out_train_edges.txt
+out_BKG_edges.txt
+
+# ── Claude Code internal settings ────────────────────────────────────────────
+.claude/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── Model checkpoints ────────────────────────────────────────────────────────
+*.pth
+*.pt
+*.ckpt
+pytorch/experiments/
+
+# ── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editors ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+env/
+.env

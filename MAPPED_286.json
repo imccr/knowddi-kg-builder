@@ -1,0 +1,1522 @@
+{
+  "abacavir": {
+    "drugbank_id": "DB01048",
+    "knowddi_id": 1525,
+    "match": "original"
+  },
+  "acetazolamide": {
+    "drugbank_id": "DB00819",
+    "knowddi_id": 1481,
+    "match": "original"
+  },
+  "acetylsalicylic acid": {
+    "drugbank_id": "DB00945",
+    "knowddi_id": 521,
+    "match": "original"
+  },
+  "aciclovir": {
+    "drugbank_id": "DB00787",
+    "knowddi_id": 1671,
+    "match": "original"
+  },
+  "albendazole": {
+    "drugbank_id": "DB00518",
+    "knowddi_id": 596,
+    "match": "exact",
+    "drugbank_name": "Albendazole"
+  },
+  "allopurinol": {
+    "drugbank_id": "DB00437",
+    "knowddi_id": 846,
+    "match": "original"
+  },
+  "amidotrizoate": {
+    "drugbank_id": "DB00271",
+    "knowddi_id": 1539,
+    "match": "synonym",
+    "drugbank_name": "Diatrizoate"
+  },
+  "amikacin": {
+    "drugbank_id": "DB00479",
+    "knowddi_id": 898,
+    "match": "exact",
+    "drugbank_name": "Amikacin"
+  },
+  "aminophylline": {
+    "drugbank_id": "DB01223",
+    "knowddi_id": 390,
+    "match": "original"
+  },
+  "amiodarone": {
+    "drugbank_id": "DB01118",
+    "knowddi_id": 137,
+    "match": "original"
+  },
+  "amitriptyline": {
+    "drugbank_id": "DB00321",
+    "knowddi_id": 262,
+    "match": "original"
+  },
+  "amlodipine": {
+    "drugbank_id": "DB00381",
+    "knowddi_id": 385,
+    "match": "original"
+  },
+  "amoxicillin": {
+    "drugbank_id": "DB01060",
+    "knowddi_id": 446,
+    "match": "original"
+  },
+  "amphotericin b": {
+    "drugbank_id": "DB00681",
+    "knowddi_id": 1151,
+    "match": "original"
+  },
+  "ampicillin": {
+    "drugbank_id": "DB00415",
+    "knowddi_id": 138,
+    "match": "original"
+  },
+  "artemether": {
+    "drugbank_id": "DB06697",
+    "knowddi_id": 539,
+    "match": "original"
+  },
+  "artesunate": {
+    "drugbank_id": "DB09274",
+    "knowddi_id": 1075,
+    "match": "exact",
+    "drugbank_name": "Artesunate"
+  },
+  "ascorbic acid": {
+    "drugbank_id": "DB00126",
+    "knowddi_id": 1299,
+    "match": "original"
+  },
+  "atazanavir": {
+    "drugbank_id": "DB01072",
+    "knowddi_id": 564,
+    "match": "original"
+  },
+  "atorvastatin": {
+    "drugbank_id": "DB01076",
+    "knowddi_id": 226,
+    "match": "original"
+  },
+  "atovaquone": {
+    "drugbank_id": "DB01117",
+    "knowddi_id": 1376,
+    "match": "exact",
+    "drugbank_name": "Atovaquone"
+  },
+  "atropine": {
+    "drugbank_id": "DB00572",
+    "knowddi_id": 47,
+    "match": "original"
+  },
+  "azathioprine": {
+    "drugbank_id": "DB00993",
+    "knowddi_id": 1131,
+    "match": "original"
+  },
+  "azithromycin": {
+    "drugbank_id": "DB00207",
+    "knowddi_id": 645,
+    "match": "original"
+  },
+  "bedaquiline": {
+    "drugbank_id": "DB08903",
+    "knowddi_id": 1315,
+    "match": "exact",
+    "drugbank_name": "Bedaquiline"
+  },
+  "bendamustine": {
+    "drugbank_id": "DB06769",
+    "knowddi_id": 1225,
+    "match": "exact",
+    "drugbank_name": "Bendamustine"
+  },
+  "benzathine benzylpenicillin": {
+    "drugbank_id": "DB09323",
+    "knowddi_id": 873,
+    "match": "exact",
+    "drugbank_name": "Benzathine benzylpenicillin"
+  },
+  "benzocaine": {
+    "drugbank_id": "DB01086",
+    "knowddi_id": 945,
+    "match": "exact",
+    "drugbank_name": "Benzocaine"
+  },
+  "benzoic acid": {
+    "drugbank_id": "DB03793",
+    "knowddi_id": 1156,
+    "match": "exact",
+    "drugbank_name": "Benzoic Acid"
+  },
+  "benzoyl peroxide": {
+    "drugbank_id": "DB09096",
+    "knowddi_id": 1490,
+    "match": "exact",
+    "drugbank_name": "Benzoyl peroxide"
+  },
+  "benzylpenicillin": {
+    "drugbank_id": "DB01053",
+    "knowddi_id": 881,
+    "match": "exact",
+    "drugbank_name": "Benzylpenicillin"
+  },
+  "betamethasone": {
+    "drugbank_id": "DB00443",
+    "knowddi_id": 103,
+    "match": "original"
+  },
+  "bicalutamide": {
+    "drugbank_id": "DB01128",
+    "knowddi_id": 351,
+    "match": "original"
+  },
+  "bisacodyl": {
+    "drugbank_id": "DB00459",
+    "knowddi_id": 1526,
+    "match": "original"
+  },
+  "bisoprolol": {
+    "drugbank_id": "DB01612",
+    "knowddi_id": 1362,
+    "match": "original"
+  },
+  "bleomycin": {
+    "drugbank_id": "DB00290",
+    "knowddi_id": 1235,
+    "match": "original"
+  },
+  "bupivacaine": {
+    "drugbank_id": "DB00297",
+    "knowddi_id": 377,
+    "match": "original"
+  },
+  "buprenorphine": {
+    "drugbank_id": "DB00921",
+    "knowddi_id": 491,
+    "match": "original"
+  },
+  "calcium gluconate": {
+    "drugbank_id": "DB00326",
+    "knowddi_id": 1501,
+    "match": "original"
+  },
+  "capecitabine": {
+    "drugbank_id": "DB01101",
+    "knowddi_id": 1241,
+    "match": "original"
+  },
+  "carbamazepine": {
+    "drugbank_id": "DB00564",
+    "knowddi_id": 156,
+    "match": "original"
+  },
+  "carbidopa": {
+    "drugbank_id": "DB00190",
+    "knowddi_id": 1629,
+    "match": "exact",
+    "drugbank_name": "Carbidopa"
+  },
+  "carbimazole": {
+    "drugbank_id": "DB00389",
+    "knowddi_id": 1130,
+    "match": "exact",
+    "drugbank_name": "Carbimazole"
+  },
+  "carboplatin": {
+    "drugbank_id": "DB00958",
+    "knowddi_id": 889,
+    "match": "original"
+  },
+  "cefazolin": {
+    "drugbank_id": "DB01327",
+    "knowddi_id": 859,
+    "match": "original"
+  },
+  "cefixime": {
+    "drugbank_id": "DB00671",
+    "knowddi_id": 741,
+    "match": "original"
+  },
+  "cefotaxime": {
+    "drugbank_id": "DB00493",
+    "knowddi_id": 880,
+    "match": "exact",
+    "drugbank_name": "Cefotaxime"
+  },
+  "ceftriaxone": {
+    "drugbank_id": "DB01212",
+    "knowddi_id": 869,
+    "match": "original"
+  },
+  "cephalexin": {
+    "drugbank_id": "DB00567",
+    "knowddi_id": 223,
+    "match": "exact",
+    "drugbank_name": "Cephalexin"
+  },
+  "chlorambucil": {
+    "drugbank_id": "DB00291",
+    "knowddi_id": 1234,
+    "match": "original"
+  },
+  "chloramphenicol": {
+    "drugbank_id": "DB00446",
+    "knowddi_id": 658,
+    "match": "original"
+  },
+  "chlordiazepoxide": {
+    "drugbank_id": "DB00475",
+    "knowddi_id": 393,
+    "match": "original"
+  },
+  "chloroquine": {
+    "drugbank_id": "DB00608",
+    "knowddi_id": 588,
+    "match": "original"
+  },
+  "chlorpromazine": {
+    "drugbank_id": "DB00477",
+    "knowddi_id": 392,
+    "match": "original"
+  },
+  "ciclosporin": {
+    "drugbank_id": "DB00091",
+    "knowddi_id": 198,
+    "match": "original"
+  },
+  "ciprofloxacin": {
+    "drugbank_id": "DB00537",
+    "knowddi_id": 1176,
+    "match": "original"
+  },
+  "cisplatin": {
+    "drugbank_id": "DB00515",
+    "knowddi_id": 1254,
+    "match": "original"
+  },
+  "clarithromycin": {
+    "drugbank_id": "DB01211",
+    "knowddi_id": 1088,
+    "match": "original"
+  },
+  "clavulanic acid": {
+    "drugbank_id": "DB00766",
+    "knowddi_id": 1599,
+    "match": "synonym",
+    "drugbank_name": "Clavulanate"
+  },
+  "clindamycin": {
+    "drugbank_id": "DB01190",
+    "knowddi_id": 484,
+    "match": "original"
+  },
+  "clofazimine": {
+    "drugbank_id": "DB00845",
+    "knowddi_id": 448,
+    "match": "original"
+  },
+  "clomifene": {
+    "drugbank_id": "DB00882",
+    "knowddi_id": 1094,
+    "match": "original"
+  },
+  "clopidogrel": {
+    "drugbank_id": "DB00758",
+    "knowddi_id": 597,
+    "match": "original"
+  },
+  "clotrimazole": {
+    "drugbank_id": "DB00257",
+    "knowddi_id": 1086,
+    "match": "exact",
+    "drugbank_name": "Clotrimazole"
+  },
+  "cloxacillin": {
+    "drugbank_id": "DB01147",
+    "knowddi_id": 1124,
+    "match": "original"
+  },
+  "codeine": {
+    "drugbank_id": "DB00318",
+    "knowddi_id": 579,
+    "match": "original"
+  },
+  "colchicine": {
+    "drugbank_id": "DB01394",
+    "knowddi_id": 400,
+    "match": "original"
+  },
+  "colecalciferol": {
+    "drugbank_id": "DB00169",
+    "knowddi_id": 414,
+    "match": "synonym",
+    "drugbank_name": "Cholecalciferol"
+  },
+  "colistin": {
+    "drugbank_id": "DB00803",
+    "knowddi_id": 1618,
+    "match": "exact",
+    "drugbank_name": "Colistin"
+  },
+  "cyanocobalamin": {
+    "drugbank_id": "DB00115",
+    "knowddi_id": 1616,
+    "match": "exact",
+    "drugbank_name": "Cyanocobalamin"
+  },
+  "cyclophosphamide": {
+    "drugbank_id": "DB00531",
+    "knowddi_id": 243,
+    "match": "original"
+  },
+  "cycloserine": {
+    "drugbank_id": "DB00260",
+    "knowddi_id": 1396,
+    "match": "exact",
+    "drugbank_name": "Cycloserine"
+  },
+  "cytarabine": {
+    "drugbank_id": "DB00987",
+    "knowddi_id": 249,
+    "match": "exact",
+    "drugbank_name": "Cytarabine"
+  },
+  "dacarbazine": {
+    "drugbank_id": "DB00851",
+    "knowddi_id": 1181,
+    "match": "original"
+  },
+  "dactinomycin": {
+    "drugbank_id": "DB00970",
+    "knowddi_id": 1242,
+    "match": "original"
+  },
+  "dapsone": {
+    "drugbank_id": "DB00250",
+    "knowddi_id": 314,
+    "match": "original"
+  },
+  "darunavir": {
+    "drugbank_id": "DB01264",
+    "knowddi_id": 570,
+    "match": "original"
+  },
+  "daunorubicin": {
+    "drugbank_id": "DB00694",
+    "knowddi_id": 562,
+    "match": "original"
+  },
+  "deferasirox": {
+    "drugbank_id": "DB01609",
+    "knowddi_id": 1457,
+    "match": "exact",
+    "drugbank_name": "Deferasirox"
+  },
+  "deferiprone": {
+    "drugbank_id": "DB08826",
+    "knowddi_id": 1679,
+    "match": "exact",
+    "drugbank_name": "Deferiprone"
+  },
+  "deferoxamine": {
+    "drugbank_id": "DB00746",
+    "knowddi_id": 1530,
+    "match": "original"
+  },
+  "desmopressin": {
+    "drugbank_id": "DB00035",
+    "knowddi_id": 1441,
+    "match": "original"
+  },
+  "dexamethasone": {
+    "drugbank_id": "DB01234",
+    "knowddi_id": 119,
+    "match": "original"
+  },
+  "diazepam": {
+    "drugbank_id": "DB00829",
+    "knowddi_id": 407,
+    "match": "original"
+  },
+  "diclofenac": {
+    "drugbank_id": "DB00586",
+    "knowddi_id": 668,
+    "match": "original"
+  },
+  "diethylcarbamazine": {
+    "drugbank_id": "DB00711",
+    "knowddi_id": 1697,
+    "match": "exact",
+    "drugbank_name": "Diethylcarbamazine"
+  },
+  "digoxin": {
+    "drugbank_id": "DB00390",
+    "knowddi_id": 457,
+    "match": "original"
+  },
+  "dimercaprol": {
+    "drugbank_id": "DB06782",
+    "knowddi_id": 1554,
+    "match": "exact",
+    "drugbank_name": "Dimercaprol"
+  },
+  "disulfiram": {
+    "drugbank_id": "DB00822",
+    "knowddi_id": 412,
+    "match": "original"
+  },
+  "dobutamine": {
+    "drugbank_id": "DB00841",
+    "knowddi_id": 706,
+    "match": "original"
+  },
+  "docetaxel": {
+    "drugbank_id": "DB01248",
+    "knowddi_id": 357,
+    "match": "original"
+  },
+  "dolutegravir": {
+    "drugbank_id": "DB08930",
+    "knowddi_id": 1670,
+    "match": "original"
+  },
+  "domperidone": {
+    "drugbank_id": "DB01184",
+    "knowddi_id": 370,
+    "match": "original"
+  },
+  "dopamine": {
+    "drugbank_id": "DB00988",
+    "knowddi_id": 415,
+    "match": "original"
+  },
+  "doxorubicin": {
+    "drugbank_id": "DB00997",
+    "knowddi_id": 179,
+    "match": "original"
+  },
+  "doxycycline": {
+    "drugbank_id": "DB00254",
+    "knowddi_id": 755,
+    "match": "original"
+  },
+  "efavirenz": {
+    "drugbank_id": "DB00625",
+    "knowddi_id": 416,
+    "match": "original"
+  },
+  "emtricitabine": {
+    "drugbank_id": "DB00879",
+    "knowddi_id": 1499,
+    "match": "original"
+  },
+  "enalapril": {
+    "drugbank_id": "DB00584",
+    "knowddi_id": 315,
+    "match": "original"
+  },
+  "entecavir": {
+    "drugbank_id": "DB00442",
+    "knowddi_id": 1514,
+    "match": "exact",
+    "drugbank_name": "Entecavir"
+  },
+  "ephedrine": {
+    "drugbank_id": "DB01364",
+    "knowddi_id": 708,
+    "match": "exact",
+    "drugbank_name": "Ephedrine"
+  },
+  "epinephrine": {
+    "drugbank_id": "DB00668",
+    "knowddi_id": 714,
+    "match": "original"
+  },
+  "epirubicin": {
+    "drugbank_id": "DB00445",
+    "knowddi_id": 892,
+    "match": "original"
+  },
+  "erythromycin": {
+    "drugbank_id": "DB00199",
+    "knowddi_id": 143,
+    "match": "original"
+  },
+  "ethambutol": {
+    "drugbank_id": "DB00330",
+    "knowddi_id": 1570,
+    "match": "original"
+  },
+  "ethanol": {
+    "drugbank_id": "DB00898",
+    "knowddi_id": 587,
+    "match": "exact",
+    "drugbank_name": "Ethanol"
+  },
+  "ethinylestradiol": {
+    "drugbank_id": "DB00977",
+    "knowddi_id": 299,
+    "match": "original"
+  },
+  "ethionamide": {
+    "drugbank_id": "DB00609",
+    "knowddi_id": 1469,
+    "match": "exact",
+    "drugbank_name": "Ethionamide"
+  },
+  "etoposide": {
+    "drugbank_id": "DB00773",
+    "knowddi_id": 750,
+    "match": "original"
+  },
+  "fenofibrate": {
+    "drugbank_id": "DB01039",
+    "knowddi_id": 432,
+    "match": "original"
+  },
+  "fentanyl": {
+    "drugbank_id": "DB00813",
+    "knowddi_id": 961,
+    "match": "original"
+  },
+  "fexofenadine": {
+    "drugbank_id": "DB00950",
+    "knowddi_id": 959,
+    "match": "exact",
+    "drugbank_name": "Fexofenadine"
+  },
+  "fluconazole": {
+    "drugbank_id": "DB00196",
+    "knowddi_id": 1076,
+    "match": "original"
+  },
+  "flucytosine": {
+    "drugbank_id": "DB01099",
+    "knowddi_id": 1145,
+    "match": "exact",
+    "drugbank_name": "Flucytosine"
+  },
+  "fludrocortisone": {
+    "drugbank_id": "DB00687",
+    "knowddi_id": 107,
+    "match": "original"
+  },
+  "fluorouracil": {
+    "drugbank_id": "DB00544",
+    "knowddi_id": 233,
+    "match": "original"
+  },
+  "fluoxetine": {
+    "drugbank_id": "DB00472",
+    "knowddi_id": 394,
+    "match": "original"
+  },
+  "fluphenazine": {
+    "drugbank_id": "DB00623",
+    "knowddi_id": 1014,
+    "match": "original"
+  },
+  "folic acid": {
+    "drugbank_id": "DB00158",
+    "knowddi_id": 1425,
+    "match": "original"
+  },
+  "furosemide": {
+    "drugbank_id": "DB00695",
+    "knowddi_id": 894,
+    "match": "original"
+  },
+  "fusidic acid": {
+    "drugbank_id": "DB02703",
+    "knowddi_id": 1529,
+    "match": "exact",
+    "drugbank_name": "Fusidic Acid"
+  },
+  "ganciclovir": {
+    "drugbank_id": "DB01004",
+    "knowddi_id": 1484,
+    "match": "exact",
+    "drugbank_name": "Ganciclovir"
+  },
+  "gefitinib": {
+    "drugbank_id": "DB00317",
+    "knowddi_id": 834,
+    "match": "original"
+  },
+  "gemcitabine": {
+    "drugbank_id": "DB00441",
+    "knowddi_id": 885,
+    "match": "original"
+  },
+  "gentamicin": {
+    "drugbank_id": "DB00798",
+    "knowddi_id": 900,
+    "match": "original"
+  },
+  "gliclazide": {
+    "drugbank_id": "DB01120",
+    "knowddi_id": 474,
+    "match": "original"
+  },
+  "glipizide": {
+    "drugbank_id": "DB01067",
+    "knowddi_id": 326,
+    "match": "original"
+  },
+  "glyceryl trinitrate": {
+    "drugbank_id": "DB00727",
+    "knowddi_id": 1354,
+    "match": "original"
+  },
+  "haloperidol": {
+    "drugbank_id": "DB00502",
+    "knowddi_id": 245,
+    "match": "original"
+  },
+  "halothane": {
+    "drugbank_id": "DB01159",
+    "knowddi_id": 522,
+    "match": "exact",
+    "drugbank_name": "Halothane"
+  },
+  "hydralazine": {
+    "drugbank_id": "DB01275",
+    "knowddi_id": 1060,
+    "match": "exact",
+    "drugbank_name": "Hydralazine"
+  },
+  "hydrochlorothiazide": {
+    "drugbank_id": "DB00999",
+    "knowddi_id": 1069,
+    "match": "original"
+  },
+  "hydrocortisone": {
+    "drugbank_id": "DB00741",
+    "knowddi_id": 92,
+    "match": "original"
+  },
+  "hydroxychloroquine": {
+    "drugbank_id": "DB01611",
+    "knowddi_id": 1369,
+    "match": "original"
+  },
+  "hydroxyurea": {
+    "drugbank_id": "DB01005",
+    "knowddi_id": 1174,
+    "match": "original"
+  },
+  "ibuprofen": {
+    "drugbank_id": "DB01050",
+    "knowddi_id": 334,
+    "match": "original"
+  },
+  "ifosfamide": {
+    "drugbank_id": "DB01181",
+    "knowddi_id": 680,
+    "match": "exact",
+    "drugbank_name": "Ifosfamide"
+  },
+  "imatinib": {
+    "drugbank_id": "DB00619",
+    "knowddi_id": 637,
+    "match": "original"
+  },
+  "iohexol": {
+    "drugbank_id": "DB01362",
+    "knowddi_id": 1522,
+    "match": "exact",
+    "drugbank_name": "Iohexol"
+  },
+  "ipratropium bromide": {
+    "drugbank_id": "DB00332",
+    "knowddi_id": 29,
+    "match": "exact",
+    "drugbank_name": "Ipratropium bromide"
+  },
+  "isoflurane": {
+    "drugbank_id": "DB00753",
+    "knowddi_id": 347,
+    "match": "exact",
+    "drugbank_name": "Isoflurane"
+  },
+  "isoniazid": {
+    "drugbank_id": "DB00951",
+    "knowddi_id": 1093,
+    "match": "original"
+  },
+  "isoprenaline": {
+    "drugbank_id": "DB01064",
+    "knowddi_id": 726,
+    "match": "exact",
+    "drugbank_name": "Isoprenaline"
+  },
+  "isosorbide dinitrate": {
+    "drugbank_id": "DB00883",
+    "knowddi_id": 518,
+    "match": "original"
+  },
+  "itraconazole": {
+    "drugbank_id": "DB01167",
+    "knowddi_id": 1084,
+    "match": "original"
+  },
+  "ivermectin": {
+    "drugbank_id": "DB00602",
+    "knowddi_id": 590,
+    "match": "exact",
+    "drugbank_name": "Ivermectin"
+  },
+  "ketamine": {
+    "drugbank_id": "DB01221",
+    "knowddi_id": 202,
+    "match": "original"
+  },
+  "labetalol": {
+    "drugbank_id": "DB00598",
+    "knowddi_id": 719,
+    "match": "original"
+  },
+  "lactulose": {
+    "drugbank_id": "DB00581",
+    "knowddi_id": 1635,
+    "match": "original"
+  },
+  "lamivudine": {
+    "drugbank_id": "DB00709",
+    "knowddi_id": 1504,
+    "match": "original"
+  },
+  "ledipasvir": {
+    "drugbank_id": "DB09027",
+    "knowddi_id": 1659,
+    "match": "exact",
+    "drugbank_name": "Ledipasvir"
+  },
+  "lenalidomide": {
+    "drugbank_id": "DB00480",
+    "knowddi_id": 1191,
+    "match": "original"
+  },
+  "letrozole": {
+    "drugbank_id": "DB01006",
+    "knowddi_id": 216,
+    "match": "original"
+  },
+  "levocetirizine": {
+    "drugbank_id": "DB06282",
+    "knowddi_id": 204,
+    "match": "exact",
+    "drugbank_name": "Levocetirizine"
+  },
+  "levodopa": {
+    "drugbank_id": "DB01235",
+    "knowddi_id": 968,
+    "match": "original"
+  },
+  "levofloxacin": {
+    "drugbank_id": "DB01137",
+    "knowddi_id": 884,
+    "match": "original"
+  },
+  "levonorgestrel": {
+    "drugbank_id": "DB00367",
+    "knowddi_id": 606,
+    "match": "original"
+  },
+  "levothyroxine": {
+    "drugbank_id": "DB00451",
+    "knowddi_id": 408,
+    "match": "original"
+  },
+  "lidocaine": {
+    "drugbank_id": "DB00281",
+    "knowddi_id": 611,
+    "match": "original"
+  },
+  "linezolid": {
+    "drugbank_id": "DB00601",
+    "knowddi_id": 1451,
+    "match": "original"
+  },
+  "lithium carbonate": {
+    "drugbank_id": "DB01356",
+    "knowddi_id": 997,
+    "match": "original"
+  },
+  "lopinavir": {
+    "drugbank_id": "DB01601",
+    "knowddi_id": 429,
+    "match": "original"
+  },
+  "lorazepam": {
+    "drugbank_id": "DB00186",
+    "knowddi_id": 1267,
+    "match": "original"
+  },
+  "losartan": {
+    "drugbank_id": "DB00678",
+    "knowddi_id": 567,
+    "match": "original"
+  },
+  "lumefantrine": {
+    "drugbank_id": "DB06708",
+    "knowddi_id": 242,
+    "match": "exact",
+    "drugbank_name": "Lumefantrine"
+  },
+  "magnesium sulfate": {
+    "drugbank_id": "DB00653",
+    "knowddi_id": 405,
+    "match": "exact",
+    "drugbank_name": "Magnesium Sulfate"
+  },
+  "mannitol": {
+    "drugbank_id": "DB00742",
+    "knowddi_id": 1355,
+    "match": "original"
+  },
+  "mebendazole": {
+    "drugbank_id": "DB00643",
+    "knowddi_id": 580,
+    "match": "exact",
+    "drugbank_name": "Mebendazole"
+  },
+  "medroxyprogesterone acetate": {
+    "drugbank_id": "DB00603",
+    "knowddi_id": 623,
+    "match": "original"
+  },
+  "mefloquine": {
+    "drugbank_id": "DB00358",
+    "knowddi_id": 285,
+    "match": "original"
+  },
+  "melphalan": {
+    "drugbank_id": "DB01042",
+    "knowddi_id": 1173,
+    "match": "original"
+  },
+  "mercaptopurine": {
+    "drugbank_id": "DB01033",
+    "knowddi_id": 1133,
+    "match": "original"
+  },
+  "meropenem": {
+    "drugbank_id": "DB00760",
+    "knowddi_id": 1623,
+    "match": "original"
+  },
+  "metformin": {
+    "drugbank_id": "DB00331",
+    "knowddi_id": 998,
+    "match": "original"
+  },
+  "methadone": {
+    "drugbank_id": "DB00333",
+    "knowddi_id": 455,
+    "match": "original"
+  },
+  "methotrexate": {
+    "drugbank_id": "DB00563",
+    "knowddi_id": 1200,
+    "match": "original"
+  },
+  "methyldopa": {
+    "drugbank_id": "DB00968",
+    "knowddi_id": 715,
+    "match": "original"
+  },
+  "methylergometrine": {
+    "drugbank_id": "DB00353",
+    "knowddi_id": 1303,
+    "match": "exact",
+    "drugbank_name": "Methylergometrine"
+  },
+  "methylprednisolone": {
+    "drugbank_id": "DB00959",
+    "knowddi_id": 96,
+    "match": "original"
+  },
+  "methylthioninium chloride": {
+    "drugbank_id": "DB09241",
+    "knowddi_id": 66,
+    "match": "synonym",
+    "drugbank_name": "Methylene blue"
+  },
+  "metoclopramide": {
+    "drugbank_id": "DB01233",
+    "knowddi_id": 1293,
+    "match": "original"
+  },
+  "metoprolol": {
+    "drugbank_id": "DB00264",
+    "knowddi_id": 576,
+    "match": "original"
+  },
+  "metronidazole": {
+    "drugbank_id": "DB00916",
+    "knowddi_id": 271,
+    "match": "original"
+  },
+  "midazolam": {
+    "drugbank_id": "DB00683",
+    "knowddi_id": 585,
+    "match": "original"
+  },
+  "mifepristone": {
+    "drugbank_id": "DB00834",
+    "knowddi_id": 1019,
+    "match": "exact",
+    "drugbank_name": "Mifepristone"
+  },
+  "miltefosine": {
+    "drugbank_id": "DB09031",
+    "knowddi_id": 1141,
+    "match": "exact",
+    "drugbank_name": "Miltefosine"
+  },
+  "misoprostol": {
+    "drugbank_id": "DB00929",
+    "knowddi_id": 1478,
+    "match": "original"
+  },
+  "mitomycin": {
+    "drugbank_id": "DB00305",
+    "knowddi_id": 1175,
+    "match": "exact",
+    "drugbank_name": "Mitomycin"
+  },
+  "morphine": {
+    "drugbank_id": "DB00295",
+    "knowddi_id": 540,
+    "match": "original"
+  },
+  "moxifloxacin": {
+    "drugbank_id": "DB00218",
+    "knowddi_id": 1221,
+    "match": "original"
+  },
+  "mupirocin": {
+    "drugbank_id": "DB00410",
+    "knowddi_id": 1622,
+    "match": "exact",
+    "drugbank_name": "Mupirocin"
+  },
+  "nalidixic acid": {
+    "drugbank_id": "DB00779",
+    "knowddi_id": 879,
+    "match": "exact",
+    "drugbank_name": "Nalidixic Acid"
+  },
+  "naloxone": {
+    "drugbank_id": "DB01183",
+    "knowddi_id": 261,
+    "match": "original"
+  },
+  "natamycin": {
+    "drugbank_id": "DB00826",
+    "knowddi_id": 1150,
+    "match": "exact",
+    "drugbank_name": "Natamycin"
+  },
+  "neostigmine": {
+    "drugbank_id": "DB01400",
+    "knowddi_id": 1292,
+    "match": "original"
+  },
+  "nevirapine": {
+    "drugbank_id": "DB00238",
+    "knowddi_id": 173,
+    "match": "original"
+  },
+  "niclosamide": {
+    "drugbank_id": "DB06803",
+    "knowddi_id": 313,
+    "match": "exact",
+    "drugbank_name": "Niclosamide"
+  },
+  "nicotine": {
+    "drugbank_id": "DB00184",
+    "knowddi_id": 319,
+    "match": "exact",
+    "drugbank_name": "Nicotine"
+  },
+  "nifedipine": {
+    "drugbank_id": "DB01115",
+    "knowddi_id": 524,
+    "match": "original"
+  },
+  "nitrofurantoin": {
+    "drugbank_id": "DB00698",
+    "knowddi_id": 1507,
+    "match": "original"
+  },
+  "nitrous oxide": {
+    "drugbank_id": "DB06690",
+    "knowddi_id": 950,
+    "match": "exact",
+    "drugbank_name": "Nitrous oxide"
+  },
+  "norepinephrine": {
+    "drugbank_id": "DB00368",
+    "knowddi_id": 721,
+    "match": "original"
+  },
+  "norethisterone": {
+    "drugbank_id": "DB00717",
+    "knowddi_id": 386,
+    "match": "original"
+  },
+  "nystatin": {
+    "drugbank_id": "DB00646",
+    "knowddi_id": 1152,
+    "match": "original"
+  },
+  "ofloxacin": {
+    "drugbank_id": "DB01165",
+    "knowddi_id": 1210,
+    "match": "exact",
+    "drugbank_name": "Ofloxacin"
+  },
+  "olanzapine": {
+    "drugbank_id": "DB00334",
+    "knowddi_id": 992,
+    "match": "original"
+  },
+  "omeprazole": {
+    "drugbank_id": "DB00338",
+    "knowddi_id": 451,
+    "match": "original"
+  },
+  "ondansetron": {
+    "drugbank_id": "DB00904",
+    "knowddi_id": 199,
+    "match": "original"
+  },
+  "oseltamivir": {
+    "drugbank_id": "DB00198",
+    "knowddi_id": 1705,
+    "match": "original"
+  },
+  "oxymetazoline": {
+    "drugbank_id": "DB00935",
+    "knowddi_id": 720,
+    "match": "exact",
+    "drugbank_name": "Oxymetazoline"
+  },
+  "p-aminosalicylic acid": {
+    "drugbank_id": "DB00233",
+    "knowddi_id": 739,
+    "match": "synonym",
+    "drugbank_name": "Aminosalicylic Acid"
+  },
+  "paclitaxel": {
+    "drugbank_id": "DB01229",
+    "knowddi_id": 292,
+    "match": "original"
+  },
+  "paracetamol": {
+    "drugbank_id": "DB00316",
+    "knowddi_id": 228,
+    "match": "original"
+  },
+  "paromomycin": {
+    "drugbank_id": "DB01421",
+    "knowddi_id": 904,
+    "match": "exact",
+    "drugbank_name": "Paromomycin"
+  },
+  "permethrin": {
+    "drugbank_id": "DB04930",
+    "knowddi_id": 322,
+    "match": "original"
+  },
+  "pethidine": {
+    "drugbank_id": "DB00454",
+    "knowddi_id": 465,
+    "match": "original"
+  },
+  "pheniramine": {
+    "drugbank_id": "DB01620",
+    "knowddi_id": 1637,
+    "match": "exact",
+    "drugbank_name": "Pheniramine"
+  },
+  "phenobarbital": {
+    "drugbank_id": "DB01174",
+    "knowddi_id": 164,
+    "match": "original"
+  },
+  "phenoxymethylpenicillin": {
+    "drugbank_id": "DB00417",
+    "knowddi_id": 797,
+    "match": "exact",
+    "drugbank_name": "Phenoxymethylpenicillin"
+  },
+  "phenytoin": {
+    "drugbank_id": "DB00252",
+    "knowddi_id": 142,
+    "match": "original"
+  },
+  "phytomenadione": {
+    "drugbank_id": "DB01022",
+    "knowddi_id": 1132,
+    "match": "original"
+  },
+  "pilocarpine": {
+    "drugbank_id": "DB01085",
+    "knowddi_id": 268,
+    "match": "original"
+  },
+  "piperacillin": {
+    "drugbank_id": "DB00319",
+    "knowddi_id": 832,
+    "match": "exact",
+    "drugbank_name": "Piperacillin"
+  },
+  "podophyllotoxin": {
+    "drugbank_id": "DB01179",
+    "knowddi_id": 321,
+    "match": "synonym",
+    "drugbank_name": "Podofilox"
+  },
+  "polymyxin b": {
+    "drugbank_id": "DB00781",
+    "knowddi_id": 1333,
+    "match": "synonym",
+    "drugbank_name": "Polymyxin B Sulfate"
+  },
+  "praziquantel": {
+    "drugbank_id": "DB01058",
+    "knowddi_id": 1419,
+    "match": "exact",
+    "drugbank_name": "Praziquantel"
+  },
+  "prazosin": {
+    "drugbank_id": "DB00457",
+    "knowddi_id": 703,
+    "match": "original"
+  },
+  "prednisolone": {
+    "drugbank_id": "DB00860",
+    "knowddi_id": 82,
+    "match": "original"
+  },
+  "primaquine": {
+    "drugbank_id": "DB01087",
+    "knowddi_id": 417,
+    "match": "original"
+  },
+  "procaine benzylpenicillin": {
+    "drugbank_id": "DB09320",
+    "knowddi_id": 872,
+    "match": "exact",
+    "drugbank_name": "Procaine benzylpenicillin"
+  },
+  "procarbazine": {
+    "drugbank_id": "DB01168",
+    "knowddi_id": 23,
+    "match": "original"
+  },
+  "proguanil": {
+    "drugbank_id": "DB01131",
+    "knowddi_id": 251,
+    "match": "exact",
+    "drugbank_name": "Proguanil"
+  },
+  "promethazine": {
+    "drugbank_id": "DB01069",
+    "knowddi_id": 317,
+    "match": "original"
+  },
+  "propofol": {
+    "drugbank_id": "DB00818",
+    "knowddi_id": 280,
+    "match": "original"
+  },
+  "pyrazinamide": {
+    "drugbank_id": "DB00339",
+    "knowddi_id": 532,
+    "match": "original"
+  },
+  "pyridoxine": {
+    "drugbank_id": "DB00165",
+    "knowddi_id": 222,
+    "match": "original"
+  },
+  "pyrimethamine": {
+    "drugbank_id": "DB00205",
+    "knowddi_id": 1382,
+    "match": "exact",
+    "drugbank_name": "Pyrimethamine"
+  },
+  "quinine": {
+    "drugbank_id": "DB00468",
+    "knowddi_id": 640,
+    "match": "original"
+  },
+  "raltegravir": {
+    "drugbank_id": "DB06817",
+    "knowddi_id": 1435,
+    "match": "original"
+  },
+  "ramipril": {
+    "drugbank_id": "DB00178",
+    "knowddi_id": 607,
+    "match": "original"
+  },
+  "ranitidine": {
+    "drugbank_id": "DB00863",
+    "knowddi_id": 599,
+    "match": "original"
+  },
+  "retinol": {
+    "drugbank_id": "DB00162",
+    "knowddi_id": 1251,
+    "match": "synonym",
+    "drugbank_name": "Vitamin A"
+  },
+  "ribavirin": {
+    "drugbank_id": "DB00811",
+    "knowddi_id": 1524,
+    "match": "original"
+  },
+  "riboflavin": {
+    "drugbank_id": "DB00140",
+    "knowddi_id": 10,
+    "match": "original"
+  },
+  "rifabutin": {
+    "drugbank_id": "DB00615",
+    "knowddi_id": 140,
+    "match": "exact",
+    "drugbank_name": "Rifabutin"
+  },
+  "rifampicin": {
+    "drugbank_id": "DB01045",
+    "knowddi_id": 147,
+    "match": "original"
+  },
+  "risperidone": {
+    "drugbank_id": "DB00734",
+    "knowddi_id": 453,
+    "match": "original"
+  },
+  "ritonavir": {
+    "drugbank_id": "DB00503",
+    "knowddi_id": 244,
+    "match": "original"
+  },
+  "salbutamol": {
+    "drugbank_id": "DB01001",
+    "knowddi_id": 705,
+    "match": "original"
+  },
+  "salicylic acid": {
+    "drugbank_id": "DB00936",
+    "knowddi_id": 236,
+    "match": "exact",
+    "drugbank_name": "Salicylic acid"
+  },
+  "sevoflurane": {
+    "drugbank_id": "DB01236",
+    "knowddi_id": 354,
+    "match": "exact",
+    "drugbank_name": "Sevoflurane"
+  },
+  "silver sulfadiazine": {
+    "drugbank_id": "DB05245",
+    "knowddi_id": 1516,
+    "match": "exact",
+    "drugbank_name": "Silver sulfadiazine"
+  },
+  "sodium nitrite": {
+    "drugbank_id": "DB09112",
+    "knowddi_id": 1356,
+    "match": "exact",
+    "drugbank_name": "Sodium Nitrite"
+  },
+  "sodium nitroprusside": {
+    "drugbank_id": "DB00325",
+    "knowddi_id": 1050,
+    "match": "original"
+  },
+  "sofosbuvir": {
+    "drugbank_id": "DB08934",
+    "knowddi_id": 1552,
+    "match": "exact",
+    "drugbank_name": "Sofosbuvir"
+  },
+  "spironolactone": {
+    "drugbank_id": "DB00421",
+    "knowddi_id": 695,
+    "match": "original"
+  },
+  "streptomycin": {
+    "drugbank_id": "DB01082",
+    "knowddi_id": 897,
+    "match": "exact",
+    "drugbank_name": "Streptomycin"
+  },
+  "sulfadoxine": {
+    "drugbank_id": "DB06729",
+    "knowddi_id": 1123,
+    "match": "original"
+  },
+  "sulfamethoxazole": {
+    "drugbank_id": "DB01015",
+    "knowddi_id": 523,
+    "match": "exact",
+    "drugbank_name": "Sulfamethoxazole"
+  },
+  "sulfasalazine": {
+    "drugbank_id": "DB00795",
+    "knowddi_id": 779,
+    "match": "original"
+  },
+  "suxamethonium": {
+    "drugbank_id": "DB00202",
+    "knowddi_id": 939,
+    "match": "original"
+  },
+  "tamoxifen": {
+    "drugbank_id": "DB00675",
+    "knowddi_id": 568,
+    "match": "original"
+  },
+  "tazobactam": {
+    "drugbank_id": "DB01606",
+    "knowddi_id": 837,
+    "match": "exact",
+    "drugbank_name": "Tazobactam"
+  },
+  "terbutaline": {
+    "drugbank_id": "DB00871",
+    "knowddi_id": 716,
+    "match": "original"
+  },
+  "testosterone": {
+    "drugbank_id": "DB00624",
+    "knowddi_id": 332,
+    "match": "original"
+  },
+  "tetracycline": {
+    "drugbank_id": "DB00759",
+    "knowddi_id": 203,
+    "match": "exact",
+    "drugbank_name": "Tetracycline"
+  },
+  "thiamine": {
+    "drugbank_id": "DB00152",
+    "knowddi_id": 1695,
+    "match": "original"
+  },
+  "timolol": {
+    "drugbank_id": "DB00373",
+    "knowddi_id": 647,
+    "match": "original"
+  },
+  "tinidazole": {
+    "drugbank_id": "DB00911",
+    "knowddi_id": 425,
+    "match": "exact",
+    "drugbank_name": "Tinidazole"
+  },
+  "tranexamic acid": {
+    "drugbank_id": "DB00302",
+    "knowddi_id": 1708,
+    "match": "original"
+  },
+  "trihexyphenidyl": {
+    "drugbank_id": "DB00376",
+    "knowddi_id": 62,
+    "match": "original"
+  },
+  "trimethoprim": {
+    "drugbank_id": "DB00440",
+    "knowddi_id": 333,
+    "match": "original"
+  },
+  "tropicamide": {
+    "drugbank_id": "DB00809",
+    "knowddi_id": 70,
+    "match": "exact",
+    "drugbank_name": "Tropicamide"
+  },
+  "valganciclovir": {
+    "drugbank_id": "DB01610",
+    "knowddi_id": 1494,
+    "match": "exact",
+    "drugbank_name": "Valganciclovir"
+  },
+  "valproic acid": {
+    "drugbank_id": "DB00313",
+    "knowddi_id": 639,
+    "match": "original"
+  },
+  "vancomycin": {
+    "drugbank_id": "DB00512",
+    "knowddi_id": 1332,
+    "match": "original"
+  },
+  "vecuronium": {
+    "drugbank_id": "DB01339",
+    "knowddi_id": 40,
+    "match": "exact",
+    "drugbank_name": "Vecuronium"
+  },
+  "velpatasvir": {
+    "drugbank_id": "DB11613",
+    "knowddi_id": 213,
+    "match": "exact",
+    "drugbank_name": "Velpatasvir"
+  },
+  "verapamil": {
+    "drugbank_id": "DB00661",
+    "knowddi_id": 482,
+    "match": "original"
+  },
+  "vinblastine": {
+    "drugbank_id": "DB00570",
+    "knowddi_id": 505,
+    "match": "original"
+  },
+  "vincristine": {
+    "drugbank_id": "DB00541",
+    "knowddi_id": 641,
+    "match": "original"
+  },
+  "warfarin": {
+    "drugbank_id": "DB00682",
+    "knowddi_id": 219,
+    "match": "original"
+  },
+  "zidovudine": {
+    "drugbank_id": "DB00495",
+    "knowddi_id": 162,
+    "match": "original"
+  },
+  "zinc oxide": {
+    "drugbank_id": "DB09321",
+    "knowddi_id": 1692,
+    "match": "exact",
+    "drugbank_name": "Zinc oxide"
+  },
+  "zinc sulfate": {
+    "drugbank_id": "DB09322",
+    "knowddi_id": 1701,
+    "match": "exact",
+    "drugbank_name": "Zinc sulfate"
+  },
+  "zoledronic acid": {
+    "drugbank_id": "DB00399",
+    "knowddi_id": 1338,
+    "match": "original"
+  }
+}

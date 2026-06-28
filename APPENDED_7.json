@@ -1,0 +1,206 @@
+{
+  "streptokinase": {
+    "drugbank_id": "DB00086",
+    "knowddi_id": 34124,
+    "match": "exact_name",
+    "drugbank_name": "Streptokinase"
+  },
+  "heparin": {
+    "drugbank_id": "DB01109",
+    "knowddi_id": 34125,
+    "match": "exact_name",
+    "drugbank_name": "Heparin"
+  },
+  "enoxaparin": {
+    "drugbank_id": "DB01225",
+    "knowddi_id": 34126,
+    "match": "exact_name",
+    "drugbank_name": "Enoxaparin"
+  },
+  "oxytocin": {
+    "drugbank_id": "DB00107",
+    "knowddi_id": 34127,
+    "match": "exact_name",
+    "drugbank_name": "Oxytocin"
+  },
+  "iron dextran": {
+    "drugbank_id": "DB00893",
+    "knowddi_id": 34128,
+    "match": "exact_name",
+    "drugbank_name": "Iron Dextran"
+  },
+  "dihydroartemisinin": {
+    "drugbank_id": "DB11638",
+    "knowddi_id": 34129,
+    "match": "exact_synonym",
+    "drugbank_name": "Artenimol"
+  },
+  "l-asparaginase": {
+    "drugbank_id": "DB00023",
+    "knowddi_id": 34130,
+    "match": "exact_name",
+    "drugbank_name": "Asparaginase"
+  },
+  "acetylcysteine": {
+    "drugbank_id": "DB06151",
+    "knowddi_id": 34131,
+    "match": "exact_name",
+    "drugbank_name": "Acetylcysteine"
+  },
+  "all-trans retinoid acid": {
+    "drugbank_id": "DB00755",
+    "knowddi_id": 34132,
+    "match": "alias",
+    "drugbank_name": "Tretinoin"
+  },
+  "atracurium": {
+    "drugbank_id": "DB00732",
+    "knowddi_id": 34133,
+    "match": "substr_name",
+    "drugbank_name": "Atracurium besylate"
+  },
+  "barium sulfate": {
+    "drugbank_id": "DB11150",
+    "knowddi_id": 34134,
+    "match": "exact_name",
+    "drugbank_name": "Barium sulfate"
+  },
+  "beclometasone": {
+    "drugbank_id": "DB00394",
+    "knowddi_id": 34135,
+    "match": "alias",
+    "drugbank_name": "Beclomethasone dipropionate"
+  },
+  "benzyl benzoate": {
+    "drugbank_id": "DB00676",
+    "knowddi_id": 34136,
+    "match": "exact_name",
+    "drugbank_name": "Benzyl Benzoate"
+  },
+  "caffeine citrate": {
+    "drugbank_id": "DB00201",
+    "knowddi_id": 34137,
+    "match": "alias",
+    "drugbank_name": "Caffeine"
+  },
+  "calcium": {
+    "drugbank_id": "DB01373",
+    "knowddi_id": 34138,
+    "match": "exact_name",
+    "drugbank_name": "Calcium"
+  },
+  "calcium folinate": {
+    "drugbank_id": "DB00650",
+    "knowddi_id": 34139,
+    "match": "alias",
+    "drugbank_name": "Leucovorin"
+  },
+  "chlorhexidine": {
+    "drugbank_id": "DB00878",
+    "knowddi_id": 34140,
+    "match": "exact_name",
+    "drugbank_name": "Chlorhexidine"
+  },
+  "delamanid": {
+    "drugbank_id": "DB11637",
+    "knowddi_id": 34141,
+    "match": "exact_name",
+    "drugbank_name": "Delamanid"
+  },
+  "drotaverine": {
+    "drugbank_id": "DB06751",
+    "knowddi_id": 34142,
+    "match": "exact_name",
+    "drugbank_name": "Drotaverine"
+  },
+  "filgrastim": {
+    "drugbank_id": "DB00099",
+    "knowddi_id": 34143,
+    "match": "exact_name",
+    "drugbank_name": "Filgrastim"
+  },
+  "fluorescein": {
+    "drugbank_id": "DB00693",
+    "knowddi_id": 34144,
+    "match": "exact_name",
+    "drugbank_name": "Fluorescein"
+  },
+  "fomipezole": {
+    "drugbank_id": "DB01213",
+    "knowddi_id": 34145,
+    "match": "alias",
+    "drugbank_name": "Fomepizole"
+  },
+  "glutaraldehyde": {
+    "drugbank_id": "DB03266",
+    "knowddi_id": 34146,
+    "match": "alias",
+    "drugbank_name": "Glutaral"
+  },
+  "glycopyrrolate": {
+    "drugbank_id": "DB00986",
+    "knowddi_id": 34147,
+    "match": "alias",
+    "drugbank_name": "Glycopyrronium"
+  },
+  "hyoscine butylbromide": {
+    "drugbank_id": "DB09300",
+    "knowddi_id": 34148,
+    "match": "alias",
+    "drugbank_name": "Butylscopolamine"
+  },
+  "hyoscine hydrobromide": {
+    "drugbank_id": "DB00747",
+    "knowddi_id": 34149,
+    "match": "alias",
+    "drugbank_name": "Scopolamine"
+  },
+  "potassium ferric hexacyanoferrate": {
+    "drugbank_id": "DB06783",
+    "knowddi_id": 34150,
+    "match": "alias",
+    "drugbank_name": "Prussian blue"
+  },
+  "povidone iodine": {
+    "drugbank_id": "DB06812",
+    "knowddi_id": 34151,
+    "match": "exact_name",
+    "drugbank_name": "Povidone-iodine"
+  },
+  "pralidoxime": {
+    "drugbank_id": "DB00733",
+    "knowddi_id": 34152,
+    "match": "exact_name",
+    "drugbank_name": "Pralidoxime"
+  },
+  "protamine sulfate": {
+    "drugbank_id": "DB09141",
+    "knowddi_id": 34153,
+    "match": "exact_name",
+    "drugbank_name": "Protamine sulfate"
+  },
+  "secnidazole": {
+    "drugbank_id": "DB12834",
+    "knowddi_id": 34154,
+    "match": "exact_name",
+    "drugbank_name": "Secnidazole"
+  },
+  "sodium calcium edetate": {
+    "drugbank_id": "DB00974",
+    "knowddi_id": 34155,
+    "match": "closest",
+    "drugbank_name": "Edetic Acid"
+  },
+  "tenofovir alafenamide": {
+    "drugbank_id": "DB09299",
+    "knowddi_id": 34156,
+    "match": "exact_name",
+    "drugbank_name": "Tenofovir alafenamide"
+  },
+  "tenofovir disoproxil fumarate": {
+    "drugbank_id": "DB00300",
+    "knowddi_id": 34157,
+    "match": "substr_name",
+    "drugbank_name": "Tenofovir disoproxil"
+  }
+}

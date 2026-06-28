@@ -189,7 +189,7 @@ python3 train.py
 
 ## Citation
 
-If you use this work, please cite the original KnowDDI paper:
+
 
 ```bibtex
 @article{knowddi2022,

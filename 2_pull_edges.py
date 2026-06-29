@@ -24,7 +24,7 @@ from collections import defaultdict
 ROOT = Path(__file__).parent
 
 # ── input paths ───────────────────────────────────────────────────────────────
-DEFAULT_INPUT   = ROOT / "APPENDED_7.json"
+DEFAULT_INPUT   = ROOT / "APPENDED_34.json"
 DDI_CSV         = ROOT / "drugbank_ddi.csv"
 TGT_CSV         = ROOT / "drugbank_targets.csv"
 ID2REL_TXT      = ROOT / "raw_data/Drugbank/id2rel.txt"

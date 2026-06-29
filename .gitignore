@@ -4,6 +4,10 @@
 drugbank.xml
 drugbank.xml.zip
 drugbank_ddi.csv
+drugbank_ddi_severity.csv
+
+# ── DDInter data (downloadable from ddinter.scbdd.com/download/) ──────────────
+ddinter_data/
 
 # ── Temporary pipeline outputs (copy-paste files, regenerate with 2_pull_edges.py) ──
 new_drug_ids.json
@@ -48,4 +52,6 @@ env/
 .env
 
 
-MediSafe_Dataset_Expansion_Guide.pdf/
+# ── Project documents (large PDFs, not needed in repo) ───────────────────────
+MediSafe_Dataset_Expansion_Guide.pdf
+*.pdf

@@ -25,7 +25,7 @@ from collections import defaultdict
 
 ROOT         = Path(__file__).parent
 DDI_CSV      = ROOT / "drugbank_ddi.csv"
-DDINTER_GLOB = str(ROOT / "ddinter_downloads_code_*.csv")
+DDINTER_GLOB = str(ROOT / "ddinter_data/ddinter_downloads_code_*.csv")
 OUT_CSV      = ROOT / "drugbank_ddi_severity.csv"
 
 ALIASES: dict[str, str] = {

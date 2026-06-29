@@ -22,9 +22,9 @@ KnowDDI combines a Drug-Drug Interaction graph with a Biological Knowledge Graph
 | Category | Count | Details |
 |---|---|---|
 | Drugs already in KnowDDI | 286 | Matched from NLEM via name/synonym — see `MAPPED_286.json` |
-| New drugs appended | 34 | Node IDs 34124–34157 — see `APPENDED_7.json` |
-| Not in DrugBank 2017 | 4 | `calamine`, `meglumine iotroxate`, `mesna`, `piperaquine` |
-| Total NLEM coverage | ~320 / 324 | |
+| New drugs appended | 34 | Node IDs 34124–34157 — see `APPENDED_34.json` |
+| Unmapped (no DrugBank match) | 31 | See `UNMAPPED_31.json` for details and reasons |
+| Total NLEM coverage | 320 / 324 | |
 
 ---
 
@@ -37,7 +37,7 @@ knowddi-nepal/
 ├── 2_pull_edges.py           # Step 2: extract DDI + BKG edges for new drugs
 │
 ├── MAPPED_286.json           # 286 NLEM drugs already in original KnowDDI
-├── APPENDED_7.json           # 34 new drugs added (format: name → {drugbank_id, knowddi_id, ...})
+├── APPENDED_34.json           # 34 new drugs added (format: name → {drugbank_id, knowddi_id, ...})
 ├── UNMAPPED_31.json          # 31 drugs initially unmapped (now resolved in APPENDED_7)
 ├── nepal_drugs_extracted.json # All 324 NLEM 2021 drug names
 │
@@ -103,12 +103,12 @@ Run the finder, skipping drugs already mapped:
 ```bash
 python3 1_find_drug_ids.py \
     --file new_drugs.txt \
-    --skip MAPPED_286.json APPENDED_7.json
+    --skip MAPPED_286.json APPENDED_34.json
 
 # For fuzzy/uncertain matches, confirm interactively:
 python3 1_find_drug_ids.py \
     --file new_drugs.txt \
-    --skip MAPPED_286.json APPENDED_7.json \
+    --skip MAPPED_286.json APPENDED_34.json \
     --interactive
 ```
 
@@ -117,10 +117,10 @@ python3 1_find_drug_ids.py \
 ```bash
 python3 1_find_drug_ids.py \
     --file nepal_drugs_extracted.json \
-    --skip MAPPED_286.json APPENDED_7.json
+    --skip MAPPED_286.json APPENDED_34.json
 ```
 
-Output → `new_drug_ids.json` (same schema as `APPENDED_7.json`)
+Output → `new_drug_ids.json` (same schema as `APPENDED_34.json`)
 
 ### Step 2 — Extract DDI + BKG Edges
 
@@ -138,7 +138,7 @@ Output — three files ready to copy-paste:
 
 ### Step 3 — Update Mapping Files
 
-Merge `new_drug_ids.json` into `APPENDED_7.json` so the `--skip` list stays current for the next batch.
+Merge `new_drug_ids.json` into `APPENDED_34.json` so the `--skip` list stays current for the next batch.
 
 ### Step 4 — Retrain
 
@@ -181,9 +181,12 @@ python3 train.py
 | [DrugBank](https://www.drugbank.ca) | 5.0 (2017-12-20) | Academic/Non-commercial |
 | [Hetionet](https://het.io/) | v1.0 | CC0 |
 | [BioSNAP](http://snap.stanford.edu/biodata/) | — | Academic |
+| [DDInter](https://ddinter.scbdd.com) | 2.0 | Academic |
 | Nepal NLEM | 2021 | Government of Nepal |
 
 > **DrugBank XML is not included** in this repo due to licensing. Download `drugbank.xml` from [drugbank.ca](https://www.drugbank.ca/releases/latest) (free academic registration required) and place it in the root directory before running `parse_drugbank.py`.
+
+> **DDInter CSVs are not included** in this repo. Download all category files from [ddinter.scbdd.com/download](https://ddinter.scbdd.com/download/) and place them inside a `ddinter_data/` folder in the root directory before running `3_add_severity.py`.
 
 ---
 
